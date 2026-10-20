@@ -26,7 +26,7 @@ Sem checkout de pagamento: o cliente monta o pedido no site e a conversa com a l
   <tr>
     <td><img src="docs/screenshots/catalogo.png" alt="Catálogo com filtros e ordenação" width="320"></td>
     <td><img src="docs/screenshots/produto.png" alt="Página de produto com galeria, cor e tamanho" width="320"></td>
-    <td><img src="docs/screenshots/carrinho.png" alt="Carrinho com três itens" width="320"></td>
+    <td><img src="docs/screenshots/carrinho-v2.png" alt="Carrinho com três itens" width="320"></td>
   </tr>
 </table>
 
@@ -41,7 +41,7 @@ Sem checkout de pagamento: o cliente monta o pedido no site e a conversa com a l
   <tr>
     <td><img src="docs/screenshots/mobile-home.png" alt="Home no celular" width="200"></td>
     <td><img src="docs/screenshots/mobile-produto.png" alt="Produto no celular, com botão de compra fixo" width="200"></td>
-    <td><img src="docs/screenshots/mobile-carrinho.png" alt="Carrinho no celular" width="200"></td>
+    <td><img src="docs/screenshots/mobile-carrinho-v2.png" alt="Carrinho no celular" width="200"></td>
   </tr>
 </table>
 
